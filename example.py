@@ -4,7 +4,8 @@ def add(a,b):
   return a+b
 
 def substract(a,b):
-  return a + b
+  """Subtracts b from a and returns the result."""
+  return a - b
 
-def oops_another_mistake(a,b):
-  return x
+def returnFirstArgument(a,b):
+  return a
